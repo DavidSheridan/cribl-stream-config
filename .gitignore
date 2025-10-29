@@ -35,3 +35,5 @@ ha-version.txt
 *.db-shm
 .nfs*
 ### CUSTOM SECTION -- DO NOT REMOVE ###
+**/cribl.secret
+/local/cribl/licenses.yml
