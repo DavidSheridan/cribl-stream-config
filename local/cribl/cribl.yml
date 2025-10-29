@@ -1,0 +1,6 @@
+bundler:
+  bundleGitIgnoredPatterns:
+    - 'groups/default/local/cribl/auth/cribl.secret'
+    - 'groups/default_fleet/local/cribl/auth/cribl.secret'
+    - 'local/cribl/auth/cribl.secret'
+    - 'local/cribl/licenses.yml'
